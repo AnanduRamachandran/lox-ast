@@ -1,2 +1,2 @@
 # lox-ast
-AST versuib if the Lox interpreter in Rust
+AST version of the Lox interpreter in Rust
